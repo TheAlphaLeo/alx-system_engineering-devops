@@ -1,0 +1,2 @@
+#!/bin/bang
+rm -rf /tmp/my_first_directory
